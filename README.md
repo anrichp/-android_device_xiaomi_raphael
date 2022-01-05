@@ -1,1 +1,1 @@
-# -android_device_xiaomi_raphael
+# android_device_xiaomi_raphael
